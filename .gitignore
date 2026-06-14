@@ -1,0 +1,14 @@
+# Python dependencies & environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Node dependencies (for later)
+node_modules/
+.env
+
+# System files
+.DS_Store
+Thumbs.db
